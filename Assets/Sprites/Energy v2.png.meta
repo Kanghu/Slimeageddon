@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 764cfea09f8e61a4684753874e074d59
+timeCreated: 1496849135
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Energy v2_0
+    21300002: Energy v2_1
+    21300004: Energy v2_2
+    21300006: Energy v2_3
+    21300008: Energy v2_4
+    21300010: Energy v2_5
+    21300012: Energy v2_6
+    21300014: Energy v2_7
+    21300016: Energy v2_8
+    21300018: Energy v2_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Energy v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 22}
+        - {x: -18, y: -11}
+        - {x: -11, y: -14}
+        - {x: 14, y: -14}
+        - {x: 18, y: 0}
+        - {x: 18, y: 22}
+    - name: Energy v2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 21}
+        - {x: -18, y: 21}
+        - {x: -18, y: -11}
+        - {x: -14, y: -14}
+        - {x: 14, y: -14}
+        - {x: 15, y: -9}
+        - {x: 18, y: 11}
+        - {x: 18, y: 19}
+    - name: Energy v2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -18, y: 16}
+        - {x: -18, y: -7}
+        - {x: -15, y: -14}
+        - {x: 17, y: -14}
+        - {x: 18, y: -7}
+        - {x: 18, y: 19}
+    - name: Energy v2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -18, y: -5}
+        - {x: -15, y: -14}
+        - {x: 12, y: -14}
+        - {x: 16, y: -10}
+        - {x: 18, y: -4}
+        - {x: 18, y: 18}
+    - name: Energy v2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -19, y: -14}
+        - {x: -16, y: -15}
+        - {x: 13, y: -15}
+        - {x: 18, y: -14}
+        - {x: 18, y: 18}
+    - name: Energy v2_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 18}
+        - {x: -21, y: 10}
+        - {x: -21, y: -6}
+        - {x: -19, y: -10}
+        - {x: -14, y: -14}
+        - {x: -8, y: -15}
+        - {x: 14, y: -15}
+        - {x: 22, y: -7}
+        - {x: 22, y: 9}
+        - {x: 19, y: 18}
+    - name: Energy v2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -24, y: 9}
+        - {x: -24, y: -15}
+        - {x: 20, y: -15}
+        - {x: 22, y: -13}
+        - {x: 22, y: 21}
+    - name: Energy v2_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -12, y: 22}
+        - {x: -23, y: 14}
+        - {x: -23, y: -6}
+        - {x: -21, y: -9}
+        - {x: -12, y: -15}
+        - {x: 14, y: -15}
+        - {x: 23, y: -5}
+        - {x: 23, y: 10}
+        - {x: 22, y: 13}
+    - name: Energy v2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 23}
+        - {x: -2, y: 23}
+        - {x: -23, y: 18}
+        - {x: -23, y: -12}
+        - {x: -14, y: -15}
+        - {x: 19, y: -15}
+        - {x: 23, y: -8}
+        - {x: 23, y: 6}
+        - {x: 17, y: 20}
+    - name: Energy v2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -23, y: 20}
+        - {x: -23, y: -14}
+        - {x: -16, y: -15}
+        - {x: 20, y: -15}
+        - {x: 22, y: -7}
+        - {x: 22, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

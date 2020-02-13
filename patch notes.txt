@@ -1,0 +1,35 @@
+V 1.1.5 Patch Notes:
+
+Things to fix:
+
+- Dash animation Bug - !!
+- Anti-aliasing on UI (glitchy UI) - 1/2 !
+- Killing yourself will result in an error (respawn errors) - !!!
+- Smaller resolutions can't see whole map (adjust minX, minY depending on resolution) - !!
+- Throwing axe through the portal works bad on host sometimes - !
+
+Things to implement:
+
+
+- NetworkManager UI - done
+- General UI:
+  - Character Info
+  - Nametag - In Works (Denis)
+  - Options
+  - Exit menu
+
+
+- Portal spawn logic, animation teleport
+- Platforms outline / darker
+- Respawn for both players - Done, to be ported on both players (40%, very buggy), Kanghu
+- Score system - 60%, very buggy (Kanghu)
+- Player Names (Denis) (enemy name remaining)
+
+
+Wizard:
+
+- 's' animation
+- basic att animation
+- 'e' not working
+- 'q' is shit
+- mana bar color

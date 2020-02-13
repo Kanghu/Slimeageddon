@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: ab9400ff23740614ab821d3f1e1b6de5
+timeCreated: 1497011914
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Daze_0
+    21300002: Daze_1
+    21300004: Daze_2
+    21300006: Daze_3
+    21300008: Daze_4
+    21300010: Daze_5
+    21300012: Daze_6
+    21300014: Daze_7
+    21300016: Daze_8
+    21300018: Daze_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Daze_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: 5, y: 22}
+        - {x: 0, y: 22}
+        - {x: -3, y: 21}
+        - {x: -19, y: 5}
+        - {x: -15, y: -9}
+        - {x: -10, y: -13}
+        - {x: 13, y: -13}
+        - {x: 16, y: -8}
+        - {x: 21, y: 7}
+        - {x: 21, y: 9}
+    - name: Daze_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -19, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: -1}
+        - {x: 21, y: 17}
+        - {x: 9, y: 32}
+    - name: Daze_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 30}
+        - {x: -7, y: 30}
+        - {x: -12, y: 26}
+        - {x: -19, y: 14}
+        - {x: -19, y: -3}
+        - {x: -13, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: 4}
+        - {x: 21, y: 12}
+        - {x: 11, y: 26}
+    - name: Daze_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 32}
+        - {x: -15, y: 26}
+        - {x: -19, y: 18}
+        - {x: -19, y: -3}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: -1}
+        - {x: 21, y: 17}
+        - {x: 9, y: 32}
+    - name: Daze_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 31}
+        - {x: -6, y: 31}
+        - {x: -12, y: 30}
+        - {x: -10, y: 24}
+        - {x: -19, y: 13}
+        - {x: -19, y: -2}
+        - {x: -13, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: 4}
+        - {x: 21, y: 14}
+        - {x: 15, y: 28}
+    - name: Daze_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 28}
+        - {x: -19, y: 19}
+        - {x: -19, y: -3}
+        - {x: -12, y: -13}
+        - {x: 21, y: -13}
+        - {x: 21, y: 31}
+        - {x: -2, y: 31}
+        - {x: -8, y: 30}
+    - name: Daze_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 32}
+        - {x: -19, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: -1}
+        - {x: 21, y: 17}
+        - {x: 9, y: 32}
+    - name: Daze_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 30}
+        - {x: -7, y: 30}
+        - {x: -12, y: 26}
+        - {x: -19, y: 14}
+        - {x: -19, y: -3}
+        - {x: -13, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: 4}
+        - {x: 21, y: 12}
+        - {x: 11, y: 26}
+    - name: Daze_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 31}
+        - {x: -6, y: 31}
+        - {x: -12, y: 30}
+        - {x: -10, y: 24}
+        - {x: -19, y: 13}
+        - {x: -19, y: -2}
+        - {x: -13, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: 4}
+        - {x: 21, y: 14}
+        - {x: 15, y: 28}
+    - name: Daze_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 32}
+        - {x: -15, y: 26}
+        - {x: -19, y: 18}
+        - {x: -19, y: -3}
+        - {x: -12, y: -13}
+        - {x: 14, y: -13}
+        - {x: 21, y: -1}
+        - {x: 21, y: 17}
+        - {x: 9, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

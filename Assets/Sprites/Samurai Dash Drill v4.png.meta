@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: a9ce2a51e47cefc4193249be240d178f
+timeCreated: 1497280527
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Samurai Dash Drill v4_0
+    21300002: Samurai Dash Drill v4_1
+    21300004: Samurai Dash Drill v4_2
+    21300006: Samurai Dash Drill v4_3
+    21300008: Samurai Dash Drill v4_4
+    21300010: Samurai Dash Drill v4_5
+    21300012: Samurai Dash Drill v4_6
+    21300014: Samurai Dash Drill v4_7
+    21300016: Samurai Dash Drill v4_8
+    21300018: Samurai Dash Drill v4_9
+    21300020: Samurai Dash Drill v4_10
+    21300022: Samurai Dash Drill v4_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Samurai Dash Drill v4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -17, y: 4}
+        - {x: -29, y: -7}
+        - {x: -29, y: -13}
+        - {x: -24, y: -16}
+        - {x: 21, y: -16}
+        - {x: 28, y: 1}
+        - {x: 28, y: 8}
+        - {x: 16, y: 19}
+    - name: Samurai Dash Drill v4_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 16}
+        - {x: -5, y: 16}
+        - {x: -24, y: 7}
+        - {x: -24, y: -16}
+        - {x: 22, y: -16}
+        - {x: 28, y: -10}
+        - {x: 28, y: 5}
+    - name: Samurai Dash Drill v4_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 16}
+        - {x: -24, y: 11}
+        - {x: -24, y: -14}
+        - {x: -17, y: -16}
+        - {x: 31, y: -16}
+        - {x: 31, y: 12}
+        - {x: 18, y: 16}
+    - name: Samurai Dash Drill v4_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 16}
+        - {x: -15, y: 16}
+        - {x: -30, y: 10}
+        - {x: -30, y: -16}
+        - {x: -21, y: -17}
+        - {x: 29, y: -17}
+        - {x: 41, y: -9}
+        - {x: 41, y: -4}
+    - name: Samurai Dash Drill v4_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -3}
+        - {x: 23, y: 10}
+        - {x: 13, y: 15}
+        - {x: -12, y: 15}
+        - {x: -24, y: 12}
+        - {x: -32, y: 0}
+        - {x: -29, y: -10}
+        - {x: -17, y: -16}
+        - {x: 31, y: -16}
+        - {x: 48, y: -11}
+        - {x: 50, y: -8}
+        - {x: 50, y: -4}
+    - name: Samurai Dash Drill v4_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -2}
+        - {x: -23, y: -17}
+        - {x: 34, y: -17}
+        - {x: 52, y: -14}
+        - {x: 52, y: -2}
+        - {x: 44, y: 7}
+        - {x: 6, y: 15}
+        - {x: -10, y: 15}
+        - {x: -22, y: 0}
+    - name: Samurai Dash Drill v4_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 4}
+        - {x: 1, y: 16}
+        - {x: -10, y: 16}
+        - {x: -17, y: 12}
+        - {x: -25, y: 5}
+        - {x: -29, y: 0}
+        - {x: -29, y: -14}
+        - {x: -9, y: -19}
+        - {x: 32, y: -19}
+        - {x: 51, y: -11}
+        - {x: 53, y: -8}
+        - {x: 53, y: -4}
+    - name: Samurai Dash Drill v4_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: 7}
+        - {x: -16, y: 11}
+        - {x: -20, y: 14}
+        - {x: -29, y: 2}
+        - {x: -29, y: -8}
+        - {x: -19, y: -19}
+        - {x: 26, y: -19}
+        - {x: 54, y: -14}
+        - {x: 54, y: -1}
+        - {x: 18, y: 14}
+    - name: Samurai Dash Drill v4_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -2}
+        - {x: -20, y: -17}
+        - {x: 37, y: -17}
+        - {x: 55, y: -14}
+        - {x: 55, y: -2}
+        - {x: 47, y: 7}
+        - {x: 9, y: 15}
+        - {x: -7, y: 15}
+        - {x: -19, y: 0}
+    - name: Samurai Dash Drill v4_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 16}
+        - {x: -24, y: 11}
+        - {x: -24, y: -14}
+        - {x: -17, y: -16}
+        - {x: 31, y: -16}
+        - {x: 31, y: 12}
+        - {x: 18, y: 16}
+    - name: Samurai Dash Drill v4_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 16}
+        - {x: -5, y: 16}
+        - {x: -24, y: 7}
+        - {x: -24, y: -16}
+        - {x: 22, y: -16}
+        - {x: 28, y: -10}
+        - {x: 28, y: 5}
+    - name: Samurai Dash Drill v4_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19}
+        - {x: -30, y: -4}
+        - {x: -30, y: -16}
+        - {x: 21, y: -16}
+        - {x: 28, y: 1}
+        - {x: 28, y: 8}
+        - {x: 16, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
